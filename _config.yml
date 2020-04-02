@@ -4,7 +4,7 @@
 title: Markdown Kludges
 
 # Short description of your site
-description: A virtual proof that I prefer hacking on Simple Machines (like this one)
+description: NIL
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -67,11 +67,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  rss: flase
+  email: "foo@bar.com"
+  facebook: ouch
+  github: ramangopalan
+  twitter: flip-the-birdy
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -259,4 +259,5 @@ plugins:
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
+# Modified by Raman for fun. Thanks Dean Attali!
 # 2fc73a3a967e97599c9763d05e564189
