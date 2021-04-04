@@ -9,4 +9,4 @@ machinery. I am a fan of the
 [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html) operating
 system. I use the [Manjaro
 i3](https://manjaro.org/download/community/i3/) GNU/Linux distribution
-on my netbook.
+on my Thinkpad. I typically $mod+d to process all my thoughts.
